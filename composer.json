@@ -1,5 +1,5 @@
 {
-    "name": "klarna/kco_rest",
+    "name": "friflyt/kco_rest_php",
     "description": "Official Klarna REST PHP SDK",
     "homepage": "http://developers.klarna.com",
     "license": "Apache-2.0",

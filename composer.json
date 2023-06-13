@@ -1,5 +1,5 @@
 {
-    "name": "friflyt/kco_rest",
+    "name": "friflyt/kco_rest_php",
     "description": "Klarna Checkout PHP SDK",
     "homepage": "http://developers.klarna.com",
     "license": "Apache-2.0",
